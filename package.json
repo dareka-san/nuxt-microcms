@@ -1,0 +1,20 @@
+{
+  "name": "nuxt-microcms",
+  "version": "1.0.0",
+  "description": "My scrumtrulescent Nuxt.js project",
+  "author": "dareka-san",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/dotenv": "^1.4.1",
+    "@nuxtjs/markdownit": "^1.2.9",
+    "axios": "^0.19.2",
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {}
+}
