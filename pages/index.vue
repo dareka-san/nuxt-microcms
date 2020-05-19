@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>果たしてデプロイされるのか？うぬｎ！</h1>
+    <h1>果たしてデプロイされるのか？うぬｎ！下書きは出ておらぬか！？</h1>
     <div v-for="item in items" :key="item.id">
       <nuxt-link :to="'careers/' + item.id">
         <h2>
