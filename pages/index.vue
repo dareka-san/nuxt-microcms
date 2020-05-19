@@ -1,5 +1,6 @@
 <template>
   <div>
+    <h1>果たしてデプロイされるのか？</h1>
     <div v-for="item in items" :key="item.id">
       <nuxt-link :to="'careers/' + item.id">
         <h2>
